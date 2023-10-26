@@ -1,2 +1,2 @@
-# pomarey
-MY "estate" theme
+# Pomarey
+MY "estate" theme bout the house in this Chartreuse hamlet
