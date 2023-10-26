@@ -3,7 +3,7 @@
  * Title:Réseaux Sociaux
  * Slug: noleam/social-networks-menu
  *
- * Categories: featured, banner,cd2023,noleam
+ * Categories: featured, banner,Pomarey,noleam
  * Keywords: menu,social
  *
  */

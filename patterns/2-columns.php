@@ -2,7 +2,7 @@
 /**
  * Title:2 colonnes
  * Slug: noleam/2-columns
- * Categories: featured, banner,cd2023,noleam
+ * Categories: featured, banner,Pomarey,noleam
  * Keywords: columns,title
  *
  */

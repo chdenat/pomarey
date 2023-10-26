@@ -3,7 +3,7 @@
  * Title:Témoignages
  * Slug: noleam/testimonials
  * Post Types: post,page
- * Categories: featured, testimonials,cd2023,noleam
+ * Categories: featured, testimonials,Pomarey,noleam
  * Keywords: columns,title
  *
  */
