@@ -1,0 +1,13 @@
+
+.wp-site-blocks:not(.noleam--no-top-margin) > * {
+    margin-block-start: 1.5rem;
+    margin-block-end: 0;
+}
+
+.noleam--no-top-margin > * {
+    margin-block-start: 0 !important;
+}
+
+:where(.wp-site-blocks) > * {
+    margin-block-start: 0 !important;
+}
