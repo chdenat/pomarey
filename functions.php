@@ -11,7 +11,7 @@ if (class_exists('noleam\NoleamTheme')) {
                     'handle' => 'choices',
                     'file' => 'vendor/choices.min.css'],
                 [
-                    'handle' => 'p',
+                    'handle' => 'pomarey',
                     'file' => 'style.css', 'deps' => [
                     'choices',
                 ]
